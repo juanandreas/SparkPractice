@@ -5,3 +5,4 @@ metastore_db
 derby.log
 *.pyc
 .gitignore
+spark-warehouse
