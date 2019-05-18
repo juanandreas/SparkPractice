@@ -1,4 +1,6 @@
-venv/
-metastore_db/
+venv
+metastore_db
 .ipynb_checkpoints
+.idea
 derby.log
+*.pyc
