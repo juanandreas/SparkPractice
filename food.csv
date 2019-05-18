@@ -1,0 +1,16 @@
+﻿Food,Color,Taste,From,Type,Organism
+Lobster,Red,Good,Ocean,Animal,Lobster
+Crab,Red,Sweet,Ocean,Animal,Crab
+Tempura,Yellow,Sweet,Ocean,Animal,Shrimp
+Apple,Green,Sour,Land,Plant,Apple Tree
+Orange,Orange,Sour,Land,Plant,Orange Tree
+Banana,Yellow,Sweet,Land,Plant,Tree
+Durian,Yellow,Sweet,Land,Plant,Tree
+Carrot,Orange,Sweet,Land,Plant,Root
+Grape,Purple,Sweet,Land,Plant,Grape Vine
+Chicken,White,Bland,Land,Animal,Chicken
+Steak,Brown,Delicious,Land,Animal,Cow
+Rendang,Brown,Salty,Land,Both,Cow
+Ramen,Brown,Salty,Land,Both,Pig
+Hot Pot,Red,Spicy,Both,Both,All
+Fu Chi Fei Pian,Red,Spicy,Land,Animal,Cow
